@@ -1,3 +1,3 @@
 # Zillow-Python-Scraper
 ## What is this?
-## _______________________________________________________________________________________________________________
+This is an ETL program, written in python3.
